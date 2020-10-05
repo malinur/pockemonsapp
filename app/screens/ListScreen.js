@@ -1,6 +1,5 @@
 import React, {Component} from 'react';
 import {FlatList, StyleSheet} from 'react-native';
-import axios from 'axios';
 
 import Card from '../components/Card';
 
