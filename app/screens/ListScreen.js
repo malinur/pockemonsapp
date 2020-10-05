@@ -45,12 +45,6 @@ export default class ListScreen extends Component {
   }
 }
 
-//   async componentDidMount() {
-//     const response = axios.get('https://gabbyapp.com/pockemons/data.json');
-//     console.log(response);
-//     this.setState(prevState);
-//   }
-
 const styles = StyleSheet.create({
   content: {flexGrow: 1, alignItems: 'center'},
   screen: {
